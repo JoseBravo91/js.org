@@ -2092,7 +2092,7 @@ var cnames_active = {
   "producthunt-trending": "xiaomingplus.github.io/producthunt-trending",
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
   "profile": "treboryx.github.io/Profile",
-  "profile": "josebravo91.github.io/cv/",
+  "profileJoseB": "josebravo91.github.io/cv/",
   "program-builder": "program-builder.netlify.com",
   "progressbars": "josephabbey.github.io/progressbars",
   "projects-tracker": "iamdevlinph.github.io/projects-tracker",
